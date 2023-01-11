@@ -27,7 +27,7 @@
 | Week | Date |    Topics    | Assignments (Central Time)|
 | :----: | ---- | -------------| ---------------- |
 | 1 | Jan 9  | :notebook_with_decorative_cover: [Lecture 1 - Introduction](Slides/Lec1-Intro.pdf) | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace > First Week** <br> **DUE:** Friday, Jan 13, at 11:59 pm | |
-|  | Jan 11 |  |  |
+|  | Jan 11 | :notebook_with_decorative_cover: [Lecture 2](Slides/Lec2-IntroToJava.pdf) <br><br>By topics: <li>[Basic Terminologies](Slides/BasicTerms.pdf)</li><li>[Structure of Java](Slides/JavaStructure.pdf)</li><li>[Write-Compile-Execute](Slides/WriteCompileExcute.pdf)</li> |  <li>:computer: `PA00-A`, `PA00-B` in **zyBook > Chap 11** <br> **DUE:** Thursday, Jan 19, at 11:59 pm</li><li>:books: `ZY-1`, `ZY-2A` in **zyBook > Assignments** <br> **DUE:** Saturday, Jan 21, at 11:59 pm</li> |
 |  | Jan 13 |  |  |
 | 2 | Jan 16 |  Martin Luther King, Jr. Holiday - No Class |  |
 |  | Jan 18 |  |  |
