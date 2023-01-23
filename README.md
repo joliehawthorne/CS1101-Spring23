@@ -38,7 +38,7 @@
 | 2 | Jan 16 |  Martin Luther King, Jr. Holiday - No Class |  |
 |  | Jan 18 |  :notebook_with_decorative_cover: [Lecture 4](Slides/Lec4.pdf)<br><br>By topics: <li>[Expressions](Slides/Expressions.pdf)</li> |  |
 |  | Jan 20 |  :notebook_with_decorative_cover: [Lecture 5](Slides/Lec5.pdf)<br><br>By topics: <li>[Variables](Slides/Lec4-Variables.pdf)</li><li>[Scanners](Slides/Lec4-Scanners.pdf)</li><li>[Escape Sequences](Slides/EscapeSeq.pdf)</li> <br>:page_facing_up: Recommended Reading: <li>[System API](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html?is-external=true#in)</li><li>[Scanner API](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html)</li><li>[Oracle - Java Tutorial: Scanning](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)</li>|  <li>:computer: `PA01-W`, `PA01-A`, `PA01-B`, `PA01-C` <br> **DUE:** Thursday, Jan 26, at 11:59 pm</li> |
-| 3 | Jan 23 |  |  |
+| 3 | Jan 23 | :notebook_with_decorative_cover: [Lecture 6](Slides/Lec6.pdf)<br><br>By topics: <li>[Formatting Text with printf](Slides/printf.pdf)</li> |  <li>:books: `ZY-2B` <br> **DUE:** Saturday, Jan 28, at 11:59 pm</li>|
 |  | Jan 25 |  |  |
 |  | Jan 27 |  |  |
 | 4 | Jan 30 |  |  |
