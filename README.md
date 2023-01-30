@@ -41,7 +41,7 @@
 | 3 | Jan 23 | :notebook_with_decorative_cover: [Lecture 6](Slides/Lec6.pdf)<br><br>By topics: <li>[Formatting Text with printf](Slides/printf.pdf)</li> |  <li>:books: `ZY-2B` <br> **DUE:** Saturday, Jan 28, at 11:59 pm</li>|
 |  | Jan 25 |  :notebook_with_decorative_cover: [Lecture 7](Slides/Lec7.pdf)<br><br>By topics: <li>[Constants](Slides/Constants.pdf)</li><li>[Math Class](Slides/MathClass.pdf)</li><li>[Strings](Slides/Strings.pdf)</li> <br>:page_facing_up: Recommended Reading: <li>[Math API](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)</li><li>[Oracle - Java Tutorial: Strings](https://docs.oracle.com/javase/tutorial/java/data/strings.html)</li><li>[String API](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html)</li><li>[Object API: equals method](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object))</li> |  |
 |  | Jan 27 | :notebook_with_decorative_cover: [Lecture 8](Slides/Lec8.pdf)<br><br>By topics: <li>[Specialized Assignment Operators](Slides/SpecializedAssignmentOperators.pdf)</li><li>[Static Method: Parameter & Return Value & Flow of Control](Slides/StaticMethods_Parameters%26ReturnValues%26FlowOfControl.pdf)</li> | <li>:computer: `PA02-W1`, `PA02-W2`, `PA02-A`, `PA02-B` <br> **DUE:** Thursday, Feb 2, at 11:59 pm</li> |
-| 4 | Jan 30 |  |  |
+| 4 | Jan 30 | :notebook_with_decorative_cover: [Lecture 9](Slides/Lec9.pdf)<br><br>By topics: <li>[Passing Parameters & Scope](Slides/PassingParameters.pdf)</li><li>[Scanner as a Parameter](Slides/ScannerParameter.pdf)</li> | <li>:books: `ZY-3` <br> **DUE:** Saturday, Sept 17, at 11:59 pm</li> |
 |  | Feb 1 |  |  |
 |  | Feb 3 |  |  |
 | 5 | Feb 6 |  :speech_balloon: Exam 1 Review |  |
