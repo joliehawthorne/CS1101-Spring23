@@ -25,9 +25,9 @@
   - Eclipse: [[YouTube Tutorial]](https://www.youtube.com/watch?v=nwicobFbC2E)
 
 ## In-Class Coding Practice
-- [Coding Practice](https://github.com/ginaBai/CS1101-Fall23/tree/main/CodingPractice)
+- [Coding Practice](https://github.com/ginaBai/CS1101-Spring23/tree/main/CodingPractice)
 
-## Course Schedule and Lecture Slides
+## Course Schedule
 | Week | Date |    Topics    | Assignments (Central Time)|
 | :----: | ---- | -------------| ---------------- |
 | 1 | Jan 9  | :notebook_with_decorative_cover: [Lecture 1 - Introduction](Slides/Lec1-Intro.pdf) | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace > First Week** <br> **DUE:** Friday, Jan 13, at 11:59 pm | |
