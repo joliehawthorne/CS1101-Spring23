@@ -27,8 +27,7 @@
 ## In-Class Coding Practice
 - [Coding Practice](https://github.com/ginaBai/CS1101-Fall23/tree/main/CodingPractice)
 
-## Tentative Schedule
-:pushpin: Slides will be posted before the class meetings, check often.
+## Course Schedule and Lecture Slides
 | Week | Date |    Topics    | Assignments (Central Time)|
 | :----: | ---- | -------------| ---------------- |
 | 1 | Jan 9  | :notebook_with_decorative_cover: [Lecture 1 - Introduction](Slides/Lec1-Intro.pdf) | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace > First Week** <br> **DUE:** Friday, Jan 13, at 11:59 pm | |
@@ -42,8 +41,8 @@
 |  | Jan 27 | :notebook_with_decorative_cover: [Lecture 8](Slides/Lec8.pdf)<br><br>By topics: <li>[Specialized Assignment Operators](Slides/SpecializedAssignmentOperators.pdf)</li><li>[Static Method: Parameter & Return Value & Flow of Control](Slides/StaticMethods_Parameters%26ReturnValues%26FlowOfControl.pdf)</li> | <li>:computer: `PA02-W1`, `PA02-W2`, `PA02-A`, `PA02-B` <br> **DUE:** Thursday, Feb 2, at 11:59 pm</li> |
 | 4 | Jan 30 | :notebook_with_decorative_cover: [Lecture 9](Slides/Lec9.pdf)<br><br>By topics: <li>[Passing Parameters & Scope](Slides/PassingParameters.pdf)</li><li>[Scanner as a Parameter](Slides/ScannerParameter.pdf)</li> | <li>:books: `ZY-3` <br> **DUE:** Saturday, Sept 17, at 11:59 pm</li> |
 |  | Feb 1 | :notebook_with_decorative_cover: [Lecture 10](Slides/Lec10.pdf)<br><br>By topics: <li>[Equality, Relational, Logical Operators](Slides/Equality_Relational_LogicalOperators.pdf)</li><li>[Short Circuit Evaluation](Slides/ShortCircuitEval.pdf)</li><li>[De Morgan’s Laws](Slides/DeMorgran'sLaws.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: Equality, Relational, and Conditional Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)</li> |  |
-|  | Feb 3 |  :notebook_with_decorative_cover: [Lecture 11](Slides/Lec11.pdf)<br><br>By topics: <li>[Conditionals](Slides/Conditionals.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)</li>  |  |
-| 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: Exam 1 Review | <li>:computer: `PA03-W`, `PA03-A`, `PA03-B` <br> **DUE:** Saturday, Feb 11, at 11:59 pm</li> |
+|  | Feb 3 |  :notebook_with_decorative_cover: [Lecture 11](Slides/Lec11.pdf)<br><br>By topics: <li>[Conditionals](Slides/Conditionals.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)</li>  | <li>:computer: `PA03-W`, `PA03-A`, `PA03-B` <br> **DUE:** Saturday, Feb 11, at 11:59 pm</li> |
+| 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: Exam 1 Review |  |
 |  | Feb 8 |  :pencil: Midterm Exam 1 |  |
 |  | Feb 10 |  |  |
 | 6 | Feb 13 |  |  |
