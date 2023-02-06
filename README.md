@@ -42,7 +42,7 @@
 | 4 | Jan 30 | :notebook_with_decorative_cover: [Lecture 9](Slides/Lec9.pdf)<br><br>By topics: <li>[Passing Parameters & Scope](Slides/PassingParameters.pdf)</li><li>[Scanner as a Parameter](Slides/ScannerParameter.pdf)</li> | <li>:books: `ZY-3` <br> **DUE:** Saturday, Sept 17, at 11:59 pm</li> |
 |  | Feb 1 | :notebook_with_decorative_cover: [Lecture 10](Slides/Lec10.pdf)<br><br>By topics: <li>[Equality, Relational, Logical Operators](Slides/Equality_Relational_LogicalOperators.pdf)</li><li>[Short Circuit Evaluation](Slides/ShortCircuitEval.pdf)</li><li>[De Morgan’s Laws](Slides/DeMorgran'sLaws.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: Equality, Relational, and Conditional Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)</li> |  |
 |  | Feb 3 |  :notebook_with_decorative_cover: [Lecture 11](Slides/Lec11.pdf)<br><br>By topics: <li>[Conditionals](Slides/Conditionals.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)</li>  | <li>:computer: `PA03-W`, `PA03-A`, `PA03-B` <br> **DUE:** Saturday, Feb 11, at 11:59 pm</li> |
-| 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: Exam 1 Review |  |
+| 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: [Exam 1 Review](ExamPrep/Exam1Review.pdf) |  <li>:books: `ZY-4A` <br> **DUE:** Wednesday, Feb 15, at 11:59 pm</li>|
 |  | Feb 8 |  :pencil: Midterm Exam 1 |  |
 |  | Feb 10 |  |  |
 | 6 | Feb 13 |  |  |
