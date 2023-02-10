@@ -44,7 +44,7 @@
 |  | Feb 3 |  :notebook_with_decorative_cover: [Lecture 11](Slides/Lec11.pdf)<br><br>By topics: <li>[Conditionals](Slides/Conditionals.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)</li>  | <li>:computer: `PA03-W`, `PA03-A`, `PA03-B` <br> **DUE:** Saturday, Feb 11, at 11:59 pm</li> |
 | 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: [Exam 1 Review](ExamPrep/Exam1Review.pdf) |  <li>:books: `ZY-4A` <br> **DUE:** Wednesday, Feb 15, at 11:59 pm</li>|
 |  | Feb 8 |  :pencil: Midterm Exam 1 |  |
-|  | Feb 10 |  |  |
+|  | Feb 10 | :notebook_with_decorative_cover: [Lecture 13](Slides/Lec13.pdf)<br><br>By topics: <li>[The "Dangling else" Problem](Slides/DanglingElse.pdf)</li><li>[Returning within a Conditional](Slides/ReturnInConditionals.pdf)</li> | <li>:computer: `PA04-W1`, `PA04-W2`, `PA04-A`, `PA04-B` <br> **DUE:** Thursday, Feb 16, at 11:59 pm</li> |
 | 6 | Feb 13 |  |  |
 |  | Feb 15 |  |  |
 |  | Feb 17 |  |  |
