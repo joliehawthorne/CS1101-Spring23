@@ -45,7 +45,7 @@
 | 5 | Feb 6 | :notebook_with_decorative_cover: [Exam 1 Study Guide](ExamPrep/Exam1_StudyGuide.pdf)<br> :speech_balloon: [Exam 1 Review](ExamPrep/Exam1Review.pdf) |  <li>:books: `ZY-4A` <br> **DUE:** Wednesday, Feb 15, at 11:59 pm</li>|
 |  | Feb 8 |  :pencil: Midterm Exam 1 |  |
 |  | Feb 10 | :notebook_with_decorative_cover: [Lecture 13](Slides/Lec13.pdf)<br><br>By topics: <li>[The "Dangling else" Problem](Slides/DanglingElse.pdf)</li><li>[Returning within a Conditional](Slides/ReturnInConditionals.pdf)</li> | <li>:computer: `PA04-W1`, `PA04-W2`, `PA04-A`, `PA04-B` <br> **DUE:** Thursday, Feb 16, at 11:59 pm</li> |
-| 6 | Feb 13 |  |  |
+| 6 | Feb 13 | [Lecture 14](Slides/Lec14.pdf)<br><br>By topics: <li>[Boolean Zen](Slides/BooleanZen.pdf)</li><li>[Assertions](Slides/Assertions.pdf)</li><li>[More Strings Methods](Slides/MoreStrinsMethods.pdf)</li><li>[Character Operations from Character Class](Slides/CharacterClass.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Character API](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)</li> | <li>:books: `ZY-4B` <br> **DUE:** Wednesday, Feb 22, at 11:59 pm</li> |
 |  | Feb 15 |  |  |
 |  | Feb 17 |  |  |
 | 7 | Feb 20 |  |  |
