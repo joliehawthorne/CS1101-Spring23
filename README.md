@@ -47,7 +47,7 @@
 |  | Feb 10 | :notebook_with_decorative_cover: [Lecture 13](Slides/Lec13.pdf)<br><br>By topics: <li>[The "Dangling else" Problem](Slides/DanglingElse.pdf)</li><li>[Returning within a Conditional](Slides/ReturnInConditionals.pdf)</li> | <li>:computer: `PA04-W1`, `PA04-W2`, `PA04-A`, `PA04-B` <br> **DUE:** Thursday, Feb 16, at 11:59 pm</li> |
 | 6 | Feb 13 | [Lecture 14](Slides/Lec14.pdf)<br><br>By topics: <li>[Boolean Zen](Slides/BooleanZen.pdf)</li><li>[Assertions](Slides/Assertions.pdf)</li><li>[More Strings Methods](Slides/MoreStrinsMethods.pdf)</li><li>[Character Operations from Character Class](Slides/CharacterClass.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Character API](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)</li> | <li>:books: `ZY-4B` <br> **DUE:** Wednesday, Feb 22, at 11:59 pm</li> |
 |  | Feb 15 | [Lecture 15](Slides/Lec15.pdf)<br><br>By topics: <li>[while Loops](Slides/whileLoop.pdf)</li> |  |
-|  | Feb 17 |  |  |
+|  | Feb 17 | [Lecture 16](Slides/Lec16.pdf)<br><br>By topics: <li>[do-while Loops](Slides/doWhileLoop.pdf)</li> | <li>:computer: `PA05-W`, `PA05-A`, `PA05-B` <br> **DUE:** Thursday, Feb 23, at 11:59 pm</li> |
 | 7 | Feb 20 |  |  |
 |  | Feb 22 |  |  |
 |  | Feb 24 |  |  |
