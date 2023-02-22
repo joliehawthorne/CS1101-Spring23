@@ -48,8 +48,8 @@
 | 6 | Feb 13 | [Lecture 14](Slides/Lec14.pdf)<br><br>By topics: <li>[Boolean Zen](Slides/BooleanZen.pdf)</li><li>[Assertions](Slides/Assertions.pdf)</li><li>[More Strings Methods](Slides/MoreStrinsMethods.pdf)</li><li>[Character Operations from Character Class](Slides/CharacterClass.pdf)</li><br>:page_facing_up: Recommended Reading: <li>[Character API](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)</li> | <li>:books: `ZY-4B` <br> **DUE:** Wednesday, Feb 22, at 11:59 pm</li> |
 |  | Feb 15 | [Lecture 15](Slides/Lec15.pdf)<br><br>By topics: <li>[while Loops](Slides/whileLoop.pdf)</li> |  |
 |  | Feb 17 | [Lecture 16](Slides/Lec16.pdf)<br><br>By topics: <li>[do-while Loops](Slides/doWhileLoop.pdf)</li> | <li>:computer: `PA05-W`, `PA05-A`, `PA05-B` <br> **DUE:** Thursday, Feb 23, at 11:59 pm</li> |
-| 7 | Feb 20 | [Lecture 16](Slides/Lec17.pdf)<br><br>By topics: <li>[for Loops](Slides/forLoop.pdf)</li> |  |
-|  | Feb 22 |  |  |
+| 7 | Feb 20 | [Lecture 17](Slides/Lec17.pdf)<br><br>By topics: <li>[for Loops](Slides/forLoop.pdf)</li> |  |
+|  | Feb 22 | [Lecture 18](Slides/Lec18.pdf)<br><br>By topics: <li>Empty for Loops</li><li>Returning within a Loop</li> |  |
 |  | Feb 24 |  |  |
 | 8 | Feb 27 |  |  |
 |  | March 1 |  |  |
