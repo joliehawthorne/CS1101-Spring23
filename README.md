@@ -49,8 +49,8 @@
 |  | Feb 15 | [Lecture 15](Slides/Lec15.pdf)<br><br>By topics: <li>[while Loops](Slides/whileLoop.pdf)</li> |  |
 |  | Feb 17 | [Lecture 16](Slides/Lec16.pdf)<br><br>By topics: <li>[do-while Loops](Slides/doWhileLoop.pdf)</li> | <li>:computer: `PA05-W`, `PA05-A`, `PA05-B` <br> **DUE:** Thursday, Feb 23, at 11:59 pm</li> |
 | 7 | Feb 20 | [Lecture 17](Slides/Lec17.pdf)<br><br>By topics: <li>[for Loops](Slides/forLoop.pdf)</li> |  |
-|  | Feb 22 | [Lecture 18](Slides/Lec18.pdf)<br><br>By topics: <li>Empty for Loops</li><li>Returning within a Loop</li> |  |
-|  | Feb 24 |  |  |
+|  | Feb 22 | [Lecture 18](Slides/Lec18.pdf)<br><br>By topics: <li>Empty for Loops</li><li>Returning within a Loop</li>|  |
+|  | Feb 24 | [Lecture 19](Slides/Lec19.pdf)<br><br>By topics: <li>[Scanner hasNext Methods](Slides/hasNextMethods.pdf)</li> | <li>:books: `ZY-5A` <br> **DUE:** Wednesday, March 1, at 11:59 pm</li><li>:computer: `PA06-W`, `PA06-A`, `PA06-B` <br> **DUE:** Thursday, March 2, at 11:59 pm</li> |
 | 8 | Feb 27 |  |  |
 |  | March 1 |  |  |
 |  | March 3 |  |  |
