@@ -1,0 +1,4 @@
+StudentA 98 89.5            100
+StudentB 100
+StudentC
+StudentD 100 89.5 92.5    97.5
