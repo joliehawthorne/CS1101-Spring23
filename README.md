@@ -54,7 +54,7 @@
 | 8 | Feb 27 | [Lecture 20](Slides/Lec20.pdf)<br><br>By topics: <li>[Random Numbers](Slides/RandomNumbers.pdf)</li><li>[Unit Testing and Strategies](Slides/UnitTesting.pdf)</li> | <li>:books: `ZY-5B` <br> **DUE:** Wednesday, March 8, at 11:59 pm</li> |
 |  | March 1 | [Lecture 21](Slides/Lec21.pdf)<br><br>By topics: <li>[File Input - Token-based Processing](Slides/FileInputTokenBased.pdf)</li> |  |
 |  | March 3 | [Lecture 22](Slides/Lec22.pdf)<br><br>By topics: <li>[File Input - Line-based Processing](Slides/FileInputLineBased.pdf)</li> | <li>:computer: `PA07-W`, `PA07-A`, `PA07-B` <br> **DUE:** Thursday, March 9, at 11:59 pm</li> |
-| 9 | March 6 |  |  |
+| 9 | March 6 | [Lecture 23](Slides/Lec23.pdf)<br><br>By topics: <li>More file input coding practice</li> | <li>:books: `ZY-6` <br> **DUE:** Monday, March 20, at 11:59 pm</li> |
 |  | March 8 |  |  |
 |  | March 10 | :four_leaf_clover: Enjoy the Spring - No Class |  |
 | 10 | March 13 - 17 | :four_leaf_clover: Spring Break - No Class |  |
