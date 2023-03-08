@@ -55,7 +55,7 @@
 |  | March 1 | [Lecture 21](Slides/Lec21.pdf)<br><br>By topics: <li>[File Input - Token-based Processing](Slides/FileInputTokenBased.pdf)</li> |  |
 |  | March 3 | [Lecture 22](Slides/Lec22.pdf)<br><br>By topics: <li>[File Input - Line-based Processing](Slides/FileInputLineBased.pdf)</li> | <li>:computer: `PA07-W`, `PA07-A`, `PA07-B` <br> **DUE:** Thursday, March 9, at 11:59 pm</li> |
 | 9 | March 6 | [Lecture 23](Slides/Lec23.pdf)<br><br>By topics: <li>More file input coding practice</li> | <li>:books: `ZY-6` <br> **DUE:** Monday, March 20, at 11:59 pm</li> |
-|  | March 8 |  |  |
+|  | March 8 |  :notebook_with_decorative_cover: [Exam 2 Study Guide](ExamPrep/Exam2_StudyGuide.pdf)<br> :speech_balloon: [Exam 2 Review](ExamPrep/Exam2Review.pdf) | <li>:computer: `PA08-A`, `PA08-B` <br> **DUE:** Saturday, March 25, at 11:59 pm</li>  |
 |  | March 10 | :four_leaf_clover: Enjoy the Spring - No Class |  |
 | 10 | March 13 - 17 | :four_leaf_clover: Spring Break - No Class |  |
 | 11 | March 20 |  :speech_balloon: Exam 2 Review |  |
