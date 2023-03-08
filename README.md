@@ -58,9 +58,9 @@
 |  | March 8 |  :notebook_with_decorative_cover: [Exam 2 Study Guide](ExamPrep/Exam2_StudyGuide.pdf)<br> :speech_balloon: [Exam 2 Review](ExamPrep/Exam2Review.pdf) | <li>:computer: `PA08-A`, `PA08-B` <br> **DUE:** Saturday, March 25, at 11:59 pm</li>  |
 |  | March 10 | :four_leaf_clover: Enjoy the Spring - No Class |  |
 | 10 | March 13 - 17 | :four_leaf_clover: Spring Break - No Class |  |
-| 11 | March 20 |  :speech_balloon: Exam 2 Review |  |
+| 11 | March 20 |  [Lecture 25]()<br><br>By topics: <li>[Array Basics]()</li> |  |
 |  | March 22 |  :pencil: Midterm Exam 2 |  |
-|  | March 24 |  |  |
+|  | March 24 |  :speech_balloon: TA "Office Hours" (No lecture, the instructor is out of town for a meeting.) |  |
 | 12 | March 27 |  |  |
 |  | March 29 |  |  |
 |  | March 31 |  |  |
