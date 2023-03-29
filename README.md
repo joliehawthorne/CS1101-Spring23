@@ -61,8 +61,8 @@
 | 11 | March 20 |  [Lecture 25](Slides/Lec25.pdf)<br><br>By topics: <li>[Array Basics](Slides/ArrayBasics.pdf)</li> | <li>:books: `ZY-7A` <br> **DUE:** Wednesday, March 29, at 11:59 pm</li> |
 |  | March 22 |  :pencil: Midterm Exam 2 |  |
 |  | March 24 |  :speech_balloon: TA "Office Hours" (No lecture, the instructor is out of town for a meeting.) | <li>:computer: `PA09-A`, `PA09-B` <br> **DUE:** Thursday, March 30, at 11:59 pm</li>  |
-| 12 | March 27 |  [Lecture 26](Slides/Lec26.pdf)<br><br>By topics: <li>[File Output](Slides/FileOutput.pdf)</li> <li>[Arrays Class Methods](Slides/ArraysClass.pdf)</li> |  |
-|  | March 29 |  |  |
+| 12 | March 27 |  [Lecture 26](Slides/Lec26.pdf)<br><br>By topics: <li>[File Output](Slides/FileOutput.pdf)</li> <li>[Arrays Class Methods](Slides/ArraysClass.pdf)</li> |  <li>:books: `ZY-7B` and `ZY-8A` <br> **DUE:** Wednesday, April 5, at 11:59 pm</li> |
+|  | March 29 | [Lecture 27](Slides/Lec27.pdf)<br><br>By topics: <li>[for-each Loop](Slides/for-eachLoop.pdf)</li> <li>[Passing Arrays as Parameters](Slides/PassArrays.pdf)</li> <li>[Returning Arrays](Slides/ReturnArrays.pdf)</li>  |  |
 |  | March 31 |  |  |
 | 13 | April 3 |  |  |
 |  | April 5 |  |  |
