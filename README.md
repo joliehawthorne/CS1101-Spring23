@@ -64,7 +64,7 @@
 | 12 | March 27 |  [Lecture 26](Slides/Lec26.pdf)<br><br>By topics: <li>[File Output](Slides/FileOutput.pdf)</li> <li>[Arrays Class Methods](Slides/ArraysClass.pdf)</li> |  <li>:books: `ZY-7B` and `ZY-8A` <br> **DUE:** Wednesday, April 5, at 11:59 pm</li> |
 |  | March 29 | [Lecture 27](Slides/Lec27.pdf)<br><br>By topics: <li>[for-each Loop](Slides/for-eachLoop.pdf)</li> <li>[Passing Arrays as Parameters](Slides/PassArrays.pdf)</li> <li>[Returning Arrays](Slides/ReturnArrays.pdf)</li>  <br>:page_facing_up: Recommended Reading: <li>[Arrays API](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html#equals(java.lang.Object%5B%5D,java.lang.Object%5B%5D))</li><li>[Oracle - Java Tutorial: Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)</li>|  |
 |  | March 31 | [Lecture 28](Slides/Lec28.pdf)<br><br>By topics: <li>[Modifying Arrays](Slides/ModifyingArrays.pdf)</li> | <li>:computer: `PA10-A`, `PA10-B` <br> **DUE:** Thursday, April 6, at 11:59 pm</li> |
-| 13 | April 3 |  |  |
+| 13 | April 3 | [Lecture 29](Slides/Lec29.pdf)<br><br>By topics: <li>[Parallel Arrays](Slides/ParallelArrays.pdf)</li><li>[Array of Objects (Strings and Arrays)](Slides/ArrayOfObjects.pdf)</li> |  |
 |  | April 5 |  |  |
 |  | April 7 |  |  |
 | 14 | April 10 |  |  |
