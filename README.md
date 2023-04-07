@@ -66,7 +66,7 @@
 |  | March 31 | [Lecture 28](Slides/Lec28.pdf)<br><br>By topics: <li>[Modifying Arrays](Slides/ModifyingArrays.pdf)</li> | <li>:computer: `PA10-A`, `PA10-B` <br> **DUE:** Thursday, April 6, at 11:59 pm</li> |
 | 13 | April 3 | [Lecture 29](Slides/Lec29.pdf)<br><br>By topics: <li>[Parallel Arrays](Slides/ParallelArrays.pdf)</li><li>[Array of Objects (Strings and Arrays)](Slides/ArrayOfObjects.pdf)</li> |  |
 |  | April 5 | [Lecture 30](Slides/Lec30.pdf)<br><br>By topics: <li>[Selection Sort & Insertion Sort](Slides/Sorting_Selection%26Insertion.pdf)</li><li>[Binary Search](Slides/BinarySearch.pdf)</li> |  |
-|  | April 7 |  |  |
+|  | April 7 | [Lecture 31](Slides/Lec31.pdf)<br><br>By topics: <li>[Perfect Size Array vs. Oversize Array](Slides/ArraySizes.pdf)</li><li>[Object Basics](Slides/ObjectBasics.pdf)</li> |  |
 | 14 | April 10 |  |  |
 |  | April 12 |  |  |
 |  | April 14 |  |  |
