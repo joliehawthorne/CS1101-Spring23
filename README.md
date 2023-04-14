@@ -69,7 +69,7 @@
 |  | April 7 | [Lecture 31](Slides/Lec31.pdf)<br><br>By topics: <li>[Perfect Size Array vs. Oversize Array](Slides/ArraySizes.pdf)</li><li>[Object Basics](Slides/ObjectBasics.pdf)</li> |  |
 | 14 | April 10 | [Lecture 32](Slides/Lec32.pdf)<br><br>By topics: <li>[Constructors](Slides/Constructors.pdf)</li><li>[Object Class Methods](Slides/ObjectMethods.pdf)</li> | <li>:books: `ZY-9` <br> **DUE:** Wednesday, April 19, at 11:59 pm</li><li>:computer: `PA11-A`, `PA11-B` <br> **DUE:** Thursday, April 20, at 11:59 pm</li> |
 |  | April 12 | [Lecture 33](Slides/Lec33.pdf)<br><br>By topics: <li>[UML Diagram](Slides/UML.pdf)</li><li>[Static Fields and Methods](Slides/StaticFields%26Methods.pdf)</li><li>[Interacting Classes](Slides/InteractingClasses.pdf)</li> |  |
-|  | April 14 |  |  |
+|  | April 14 |  [Lecture 34](Slides/Lec34.pdf)<br><br>By topics: <li>[Inheritance Basics](Slides/InheritanceBasics.pdf)</li> |  |
 | 15 | April 17 |  |  |
 |  | April 19 |  |  |
 |  | April 21 |  |  |
