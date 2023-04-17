@@ -70,7 +70,7 @@
 | 14 | April 10 | [Lecture 32](Slides/Lec32.pdf)<br><br>By topics: <li>[Constructors](Slides/Constructors.pdf)</li><li>[Object Class Methods](Slides/ObjectMethods.pdf)</li> | <li>:books: `ZY-9` <br> **DUE:** Wednesday, April 19, at 11:59 pm</li><li>:computer: `PA11-A`, `PA11-B` <br> **DUE:** Thursday, April 20, at 11:59 pm</li> |
 |  | April 12 | [Lecture 33](Slides/Lec33.pdf)<br><br>By topics: <li>[UML Diagram](Slides/UML.pdf)</li><li>[Static Fields and Methods](Slides/StaticFields%26Methods.pdf)</li><li>[Interacting Classes](Slides/InteractingClasses.pdf)</li> |  |
 |  | April 14 |  [Lecture 34](Slides/Lec34.pdf)<br><br>By topics: <li>[Inheritance Basics](Slides/InheritanceBasics.pdf)</li> |  |
-| 15 | April 17 |  |  |
+| 15 | April 17 | [Lecture 35](Slides/Lec35.pdf)<br><br>By topics: <li>[More Inheritance](Slides/Inheritance-2.pdf)</li> | <li>:books: `ZY-10` <br> **DUE:** Monday, April 24, at 11:59 pm</li> |
 |  | April 19 |  |  |
 |  | April 21 |  |  |
 | 16 | April 24 |  |  |
