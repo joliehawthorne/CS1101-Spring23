@@ -73,5 +73,5 @@
 | 15 | April 17 | [Lecture 35](Slides/Lec35.pdf)<br><br>By topics: <li>[More Inheritance](Slides/Inheritance-2.pdf)</li> | <li>:books: `ZY-10` <br> **DUE:** Monday, April 24, at 11:59 pm</li> |
 |  | April 19 | [Lecture 36](Slides/Lec36.pdf)<br><br>By topics: <li>[Polymorphism](Slides/Polymorphism.pdf)</li><li>[Final Exam Overview](Slides/FinalExamOverview.pdf)</li> |  |
 |  | April 21 | :notebook_with_decorative_cover: [Lecture 37](Slides/Lec37.pdf)<br><br> By topics: <li>[Review of OOP](Slides/ReviewOOP.pdf)</li> |  |
-| 16 | April 24 | :notebook_with_decorative_cover: [Final Exam Study Guide]<br><br> <li>[Lecture 38 - Final Exam Review]</li><li>:speech_balloon: Q&A Session</li> <br> |  |
+| 16 | April 24 | :notebook_with_decorative_cover: [Final Exam Study Guide](ExamPrep/FinalExam_StudyGuide.pdf)<br><br> <li>[Lecture 38 - Final Exam Review]</li><li>:speech_balloon: Q&A Session</li> <br> |  |
 |  | April 28 |  :mechanical_arm: Final Exam, 7pm - 10pm, Location: Sarratt 197 (the Cinema) <br> **You can do this!** |  |
